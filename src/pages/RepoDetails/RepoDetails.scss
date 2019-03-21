@@ -1,0 +1,13 @@
+.repo-details-container{
+    width: 400px;
+    margin: 65px auto;
+    .button-container{
+        display: flex;
+        justify-content: space-around;
+        margin: 60px auto;
+        .button{
+            width: 40%;
+            padding: 8px;
+        }
+    }
+}

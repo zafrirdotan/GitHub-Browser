@@ -1,0 +1,15 @@
+.repo-List {
+  width: 520px;
+  margin: auto;
+  .repo-card {
+    margin: 10px auto;
+    color: black;
+    a {
+        text-decoration: none;
+      }
+    .stars {
+      display: flex;
+      align-items: center;
+    }
+  }
+}
